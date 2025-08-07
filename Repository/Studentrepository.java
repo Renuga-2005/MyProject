@@ -1,10 +1,13 @@
-package com.example.assess;
+package com.example.assess.Repository;
 
 //import com.example.assess.AllDTO;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.query.Param;
 import org.springframework.stereotype.Repository;
+
+import com.example.assess.Entity.Students;
+import com.example.assess.dto.AllDTO;
 
 import java.util.List;
 

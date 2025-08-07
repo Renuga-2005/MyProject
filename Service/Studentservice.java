@@ -1,7 +1,12 @@
-package com.example.assess;
+package com.example.assess.Service;
 
 
 
+import com.example.assess.Entity.Students;
+import com.example.assess.Repository.AddressRepo;
+import com.example.assess.Repository.QualificationRepository;
+import com.example.assess.Repository.Studentrepository;
+import com.example.assess.dto.AllDTO;
 //import com.example.assess.AllDTO;
 import com.example.assess.dto.Studentfulldto;
 

@@ -1,5 +1,8 @@
-package com.example.assess;
+package com.example.assess.Controller;
 
+import com.example.assess.Entity.Students;
+import com.example.assess.Service.Studentservice;
+import com.example.assess.dto.AllDTO;
 //import com.example.assess.AllDTO;
 import com.example.assess.dto.Studentfulldto;
 import com.example.assess.response.ResponseGenerator;

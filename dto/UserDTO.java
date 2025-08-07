@@ -1,4 +1,4 @@
-package com.example.assess;
+package com.example.assess.dto;
 
 import lombok.Data;
 

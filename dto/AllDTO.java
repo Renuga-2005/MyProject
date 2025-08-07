@@ -1,4 +1,4 @@
-package com.example.assess;
+package com.example.assess.dto;
 
 public interface AllDTO {
 	 int studentId();

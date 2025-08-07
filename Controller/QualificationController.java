@@ -1,4 +1,4 @@
-package com.example.assess;
+package com.example.assess.Controller;
 import java.util.List;
 import java.util.Optional;
 
@@ -13,6 +13,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
+import com.example.assess.Entity.Qualification;
+import com.example.assess.Service.QualificationService;
 import com.example.assess.response.ResponseGenerator;
 
 import jakarta.validation.Valid;

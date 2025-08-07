@@ -1,4 +1,4 @@
-package com.example.assess;
+package com.example.assess.Handler;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.ControllerAdvice;
